@@ -10,7 +10,7 @@ Timer = 120
 link = 'https://youtu.be/pkGPnMSX_Woautoplay=1&amp;'
 
 #number of views
-views = 20
+views = 200
 
 driver = webdriver.Chrome()
 driver.get(link)
